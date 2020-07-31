@@ -17,3 +17,7 @@ You will need the following files on your Windows PC:
 
 ### Using "Playlist to Folder.ipynb"
 If you already know how to use Jupyter Notebook, you probably won't run into trouble using this file. If not, then this might be a good moment to get to know a powerful, relatively intelligible, future-oriented environment for programming in Python. I recommend you to watch a tutorial on Youtube and then download and open the .ipynb file.
+If you don't want to get to know Jupyter Notebook but you know Python, just copy and modify the relevant parts into a Python file and run it there.
+
+### Contribution
+If you feel like this tool needs upgrades (e.g. a useful .py-file or bash script), you're welcome to contribute to it :)
